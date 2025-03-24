@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.att.tdp.popcorn_palace.repository.MovieRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.373 s -- in com.att.tdp.popcorn_palace.repository.MovieRepositoryTest
