@@ -11,7 +11,7 @@ This project is a RESTful API for a movie ticket booking system built using Java
 - [Prerequisites](#prerequisites)
 - [Build and Run](#build-and-run)
 - [Accessing the H2 Console](#accessing-the-h2-console)
-- [Testing Out SQL Queries](#testing-out-sql-queries)
+- [Testing Out SQL Queries](#Manually-Testing-Out-SQL-Queries-Through-H2-Console)
 - [Testing](#testing)
 - [Exception Handling](#exception-handling)
 - [Notes](#notes)
