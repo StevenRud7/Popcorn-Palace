@@ -1,6 +1,6 @@
 # Popcorn Palace Movie Ticket Booking System
 
-This project is a RESTful API for a movie ticket booking system built using Java Spring Boot. The system handles various operations related to movies, showtimes, and ticket bookings and ensures that overlapping showtimes and duplicate seat bookings are prevented. Contains 83 different tests to ensure the project works correctly.
+The Popcorn Palace Movie Ticket Booking System is a backend service built with Java and Spring Boot, exposing a RESTful API. The system handles various operations related to movies, showtimes, and ticket bookings and ensures that overlapping showtimes and duplicate seat bookings are prevented. Contains 83 different tests to ensure the project works correctly.
 
 ---
 
